@@ -19,3 +19,4 @@ provide text for the logo, and save the generated SVG to a .svg file.
 # Links
 https://github.com/bcoppens34/Svg-Logo-Creator
 
+https://drive.google.com/file/d/13PBCvHUoEdT7cOvacycWLrF3qtJecysf/view
